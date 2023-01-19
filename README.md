@@ -2,7 +2,7 @@
 
 My personal website, using the Astro framework and the `astro-portfolio` theme. 
 
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
