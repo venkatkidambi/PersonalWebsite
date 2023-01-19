@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://venkatkidambi.works",
+  baseUrl: "https://venkatkidambi.me",
   name: "Venkat Kidambi",
   jobDescription: "Honors Biomedical Engineering Student and Undergraduate Researcher",
   about: `I'm a final year Honors student at the University of Connecticut studying 
@@ -114,8 +114,8 @@ export const info = {
       title: "Personal Website",
       isFeatured: true,
       thumbnail: "/assets/images/website.jpg",
-      githubUrl: "https://github.com/venkatkidambi/ToeplitzAutocorrelation",
-      liveUrl: "https://venkatkidambi.works",
+      githubUrl: "https://github.com/venkatkidambi/PersonalWebsite",
+      liveUrl: "https://venkatkidambi.me",
     }
   ],
 };
